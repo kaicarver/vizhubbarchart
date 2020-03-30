@@ -1,0 +1,7 @@
+node_modules
+dist
+functions
+.env
+yarn-error.log
+src/site/_data/init.json
+src/site/_data/comments.json

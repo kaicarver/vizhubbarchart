@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "latest",
+    "@rollup/plugin-buble": "latest"
+  },
+  "dependencies": {
+    "http-server": "^0.12.1",
+    "live-server": "^1.2.1"
+  }
+}
